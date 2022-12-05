@@ -1,3 +1,7 @@
+// Caroline
+// Liz + Ethan edits where specified
+// Original class ~500 lines - some methods deleted when final changes were made
+
 package UniversitySystemGUI;
 
 import java.sql.*;
